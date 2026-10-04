@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+"$baseTexture" "models\items\adrenaline\adr_syringe_agent"
+"$surfaceprop" "Default"
+"selfillum" "1"
+}

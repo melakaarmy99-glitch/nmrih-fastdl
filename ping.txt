@@ -1,0 +1,7 @@
+"Ruleset"
+{
+	"Name"	"Ping-System//标点"
+	"Author"	"tesssensei"
+	"Description"	"Added visual and audible ping."
+        "Script"	"mutator_ping/ping.nut"
+}

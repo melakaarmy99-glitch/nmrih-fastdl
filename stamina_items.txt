@@ -1,0 +1,7 @@
+"Ruleset"
+{
+    "Name"    "Stamina Items"
+    "Author"    "durkhaz"
+    "Description"    "Adds stamina items"
+    "Script" "/mutator_stamina_items/stamina_items_init.nut"
+}
