@@ -1,0 +1,33 @@
+Patch
+{
+	include "materials/models/weapons/nmrih_wmelee_shared.vmt"
+	insert
+	{
+		"$basetexture" "models\militaryflashlight\militaryflashlight_d1"
+		"$bumpmap" "models\militaryflashlight\militaryflashlight_n1"
+		"$phongmasktexture" "models\militaryflashlight\militaryflashlight_r1"
+		"$phongexponenttexture" "models\militaryflashlight\militaryflashlight_r1"
+		"$surfaceprop" "metal"
+		"keywords" "machete"
+
+		$translucent 0
+		$alphatest 0
+		$unlit 0
+		$selfillum 0
+		$vertexcolor 0
+		$vertexalpha 0
+
+		"$color" "[0.55 0.55 0.55]"         
+
+		"$envmap" "env_cubemap"
+		"$envmaptint" "[0.02 0.02 0.02]"     
+		"$envmapfresnel" "0.1"                
+		"$basemapalphaenvmapmask" "1"
+
+		"$phong" "1"
+		"$phongalbedotint" "1"               
+		"$phongboost" "0.6"                  
+		"$phongexponent" "48"                 
+		"$phongfresnelranges" "[1 5 22.5]"
+	}
+}
