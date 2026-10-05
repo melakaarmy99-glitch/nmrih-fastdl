@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/nmr_restored/Cook_sheet"
+	$envmap env_cubemap
+	$envmapmask models/nmr_restored/surgeon_envmap
+	"$halflambert" 1
+}
+

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\nmr_restored\patient_bigbandages"
+	"$model" 1
+	"$halflambert" 1
+}

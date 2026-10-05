@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\nmr_restored\c_helmet_d"
+    "$bumpmap"     "models\nmr_restored\c_helmet_n"
+
+    "$model" 1
+    "$surfaceprop" "plastic"
+
+    "$phong" 1
+    "$phongexponent" 8
+    "$phongboost" 0.35
+    "$phongfresnelranges" "[0.5 1 5]"
+
+    "$halflambert" 1
+    "$nocull" 0
+}

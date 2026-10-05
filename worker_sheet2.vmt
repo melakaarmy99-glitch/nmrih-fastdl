@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/nmr_restored/worker_sheet2"
+	"$halflambert" 1
+}
+

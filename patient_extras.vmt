@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\nmr_restored/patient_extras"
+	$envmap "env_cubemap"
+	$envmapmask "models\nmr_restored/patient_extras_envmap"
+	$halflambert 1
+}
+

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/nmr_restored/Doctor_extras"
+	$envmap env_cubemap
+	$envmapmask models/nmr_restored/Doctor_extras_envmap
+}
+

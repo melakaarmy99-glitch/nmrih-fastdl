@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/nmr_restored/cim_fireman"
+	"$bumpmap" "models/nmr_restored/cim_fireman_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$model" 1
+}

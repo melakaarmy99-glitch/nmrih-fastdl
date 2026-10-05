@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/nmr_restored/Doctor01_sheet"
+	"$model" 1
+	"$halflambert" 1
+}
+
