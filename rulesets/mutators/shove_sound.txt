@@ -1,0 +1,7 @@
+"Ruleset"
+{
+	"Name"	"Shove Sound"
+	"Author"	"NachosChipeados"
+	"Description"	"Adds an impact sound after shoving zombies"
+	"Script"	"mutator_shove_sound/shove_sound.nut"
+}

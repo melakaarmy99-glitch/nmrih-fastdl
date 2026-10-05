@@ -1,0 +1,7 @@
+"Ruleset"
+{
+	"Name"	"NMRIH2 Zombie Expansion//地狱已满2僵尸扩展"
+	"Author"	"tesssensei"
+	"Description"	"Add new zombie types inspired by Nmrih2"
+        "Script"	"mutator_n2se/n2se.nut"
+}

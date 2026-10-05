@@ -1,0 +1,7 @@
+"Ruleset"
+{
+	"Name"	"Military Flashlight//军用手电"
+	"Author"	"tesssensei"
+	"Description"	"Fulton MX-991 flashlight"
+        "Script"	"mutator_mf/mf.nut"
+}
