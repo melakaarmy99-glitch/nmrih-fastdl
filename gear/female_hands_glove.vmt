@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\dizcordum\body\female_hands_glove"
+    "$bumpmap" "models\dizcordum\bodyfemale_hands_glove_n"
+	"$halflambert" 1
+	"$nocull" 1
+}

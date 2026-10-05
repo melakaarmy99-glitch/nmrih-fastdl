@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/dizcordum/gear/facewrap1"
+	"$bumpmap" 			"models/dizcordum/gear/facewrap_normal"
+	"$nocull"			1
+	
+	$detail 				"models/dizcordum/gear/noise_detail"
+	$detailscale 			"15"		
+}

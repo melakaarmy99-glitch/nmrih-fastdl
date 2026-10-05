@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture "			"models/dizcordum/gear/gasmask_glass"
+	"$translucent" 			"1"
+	"$halflambert" 			"1"
+
+
+}

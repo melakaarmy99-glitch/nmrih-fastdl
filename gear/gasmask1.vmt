@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	$basetexture 			"models/dizcordum/gear/gasmask1"
+
+	$detail 				"models/dizcordum/gear/noise_detail"
+	$detailscale 			"15"		
+
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/dizcordum/body/scarf1"
+	"$bumpmap" 				"models/dizcordum/body/scarf_normal"
+	
+	$detail 				"models/dizcordum/body/noise_detail"
+	$detailscale 			"15"	
+
+}
