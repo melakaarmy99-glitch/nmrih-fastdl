@@ -1,7 +1,0 @@
-"Ruleset"
-{
-	"Name"	"Throwable Expansion//投掷物拓展"
-	"Author"	"tesssensei"
-	"Description"	"Added two L4D2 throwable variants as replacements for vanilla grenades."
-        "Script"	"mutator_throwable/throwable.nut"
-}
