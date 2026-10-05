@@ -1,7 +1,0 @@
-"Ruleset"
-{
-    "Name"    "Supply Anywhere"
-    "Author"    "durkhaz"
-    "Description"    "Call supply-drop objective mode"
-    "Script" "/mutator_supply/supply_anywhere.nut"
-}
