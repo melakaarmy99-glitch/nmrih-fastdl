@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/nmr_restored/officer/gear2"
+	"$halflambert" 1
+}

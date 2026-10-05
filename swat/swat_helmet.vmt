@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\nmr_restored\swat\swat_helmet_d"
+    "$bumpmap"     "models\nmr_restored\swat\swat_helmet_n"
+
+    "$model" 1
+    "$surfaceprop" "metal"
+
+    "$halflambert" 1
+    "$nocull" 0
+}

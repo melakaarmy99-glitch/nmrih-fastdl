@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/nmr_restored/officer/badge"
+	"$halflambert" 1
+}
