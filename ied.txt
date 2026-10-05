@@ -1,7 +1,0 @@
-"Ruleset"
-{
-	"Name"	"IED//土质炸弹"
-	"Author"	"tesssensei"
-	"Description"	"The IED tears through the undead — nothing survives the blast."
-        "Script"	"mutator_ied/ied.nut"
-}
