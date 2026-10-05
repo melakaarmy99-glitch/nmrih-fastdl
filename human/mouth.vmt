@@ -1,0 +1,7 @@
+"Teeth"
+{
+	"$basetexture" "models\dizcordum\human\mouth"
+	"$model" 1
+	"$clientshader" "MouthShader"
+	"$halflambert" 1
+}
