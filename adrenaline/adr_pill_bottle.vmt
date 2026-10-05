@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "models\items\adrenaline\adr_pill_bottle"
-	"$translucent" "1"
-	"$nocull"	"1"
-
-}
